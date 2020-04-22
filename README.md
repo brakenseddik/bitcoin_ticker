@@ -1,6 +1,6 @@
 # bitcoin
 
-A new Flutter application.
+A Simple bitcoin ticker Flutter application.
 
 
 
